@@ -1,4 +1,4 @@
-# DeepSeek-CAAFE + 普通 GP（Prompt 分离版）
+# DeepSeek + 普通 GP（Prompt 分离版）
 
 该版本基于上传的 `jinhua-caafe-elite(13).py` 重构，核心算法和实验流程保持不变，主要完成以下拆分：
 
@@ -9,7 +9,7 @@
 
 ## 运行方法
 
-1. 将 `stock.xlsx` 放在项目根目录，与主脚本同级。
+1. 将 `*********` 放在项目根目录，与主脚本同级。
 2. 安装依赖：
 
 ```bash
